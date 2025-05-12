@@ -1,4 +1,4 @@
-i created a app compo parent 
+ i created a app compo parent 
 and 2 others child compo counter and header 
 in the app (parent ) i should give the (child) header a props =title a value = "the title"
 in the Counter comp 
