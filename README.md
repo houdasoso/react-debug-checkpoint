@@ -1,3 +1,6 @@
+the project is an counter 
+has a 2 buttons one increase othet decrease the number 
+i created it withe 2 bugs ::::
  i created a app compo parent 
 and 2 others child compo counter and header 
 in the app (parent ) i should give the (child) header a props =title a value = "the title"
